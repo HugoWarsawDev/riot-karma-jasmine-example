@@ -12,7 +12,7 @@
     "karma-spec-reporter": "0.0.26"
   },
   "scripts": {
-    "test": "test"
+    "test": "karma start"
   },
   "keywords": [
     "riot",
