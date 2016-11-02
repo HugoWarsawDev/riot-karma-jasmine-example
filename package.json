@@ -1,0 +1,22 @@
+{
+  "name": "riot-unit-tests-example",
+  "version": "1.0.0",
+  "description": "Example of writting Riotjs unit tests with Karma and Jasmine",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "riot",
+    "riotjs",
+    "karma",
+    "jasmine",
+    "unittest"
+  ],
+  "author": "HugoWarsawDev",
+  "license": "ISC"
+}
