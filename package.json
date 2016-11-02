@@ -11,6 +11,10 @@
     "karma-riot": "^1.1.0",
     "karma-spec-reporter": "0.0.26"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HugoWarsawDev/riot-karma-jasmine-example.git"
+  },
   "scripts": {
     "test": "karma start",
     "test-dev": "karma start --no-single-run"
@@ -22,6 +26,6 @@
     "jasmine",
     "unittest"
   ],
-  "author": "HugoWarsawDev",
+  "author": "HugoWarsawDev <HugoWarsawDev@gmail.com>",
   "license": "ISC"
 }
